@@ -8,7 +8,7 @@ layout: page
 
 # About Me
 
-<img src="C:\Users\86188\Documents\GitHub\KaiZhu.github.io\images\cover.jpg" style="zoom:50%;" />
+<img src="https://github.com/MmKayMath/KaiZhu.github.io/blob/main/images/cover.jpg" style="zoom:50%;" />
 
 Here is **Kai Zhu(朱凯)**.
 
@@ -60,7 +60,7 @@ Here is **Kai Zhu(朱凯)**.
 
 ### 抽象代数/Galois理论
 
-- [(更新日期：2023.05)](https://mmkaymath.github.io/KaiZhu.github.io/file/aa.pdf)
+- [(更新日期：2023.05)](https://mmkaymath.github.io/KaiZhu.github.io/file/AA.pdf)
 
 ### 复变函数
 
