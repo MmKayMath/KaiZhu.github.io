@@ -8,7 +8,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/MmKayMath/KaiZhu.github.io/blob/main/cover.jpg" style="zoom:50%;" />
+![cover.jpg](https://z4a.net/images/2023/05/18/cover.jpg)
 
 Here is **Kai Zhu(朱凯)**.
 
