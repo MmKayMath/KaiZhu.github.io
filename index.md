@@ -21,4 +21,5 @@ Here is **Kai Zhu(朱凯)**.
 
 # Notes
 
-- 2022年秋高等代数考前辅导[第一次]([About Me – Kai Zhu (mmkaymath.github.io)](https://mmkaymath.github.io/KaiZhu.github.io/)/file/second.pdf)
+- 2022年秋高等代数考前辅导[第一次](https://mmkaymath.github.io/KaiZhu.github.io/file/second.pdf)
+
