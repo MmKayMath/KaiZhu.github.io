@@ -8,7 +8,7 @@ layout: page
 
 # About Me
 
-![cover.jpg](https://z4a.net/images/2023/05/18/cover.jpg)
+<img src="https://z4a.net/images/2023/05/18/cover.jpg" alt="cover.jpg" style="zoom:50%;" />
 
 Here is **Kai Zhu(朱凯)**.
 
