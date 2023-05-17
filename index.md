@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-![](C:\Users\86188\Desktop\南开飞书20230517-173725.jpg)
+![](C:\Users\86188\Documents\GitHub\KaiZhu.github.io\blogs\web.assets\南开飞书20230517-173725.jpg)
 
 Here is **Kai Zhu(朱凯)**.
 
@@ -18,4 +18,7 @@ Here is **Kai Zhu(朱凯)**.
 ## 学习计划
 
 - 2022.09 代数拓扑王向军网课
--
+
+# Notes
+
+- 2022年秋高等代数考前辅导[第一次]([About Me – Kai Zhu (mmkaymath.github.io)](https://mmkaymath.github.io/KaiZhu.github.io/)/file/second.pdf)
