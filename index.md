@@ -17,12 +17,12 @@ Here is **Kai Zhu(朱凯)**.
 
 ## 学习计划
 
-- 2022.09 代数拓扑王向军网课
+- **2022.09** 代数拓扑王向军网课
 
 ## 助教经历
 
-- 2022年春 数学分析II 任课老师：王俭
-- 2022年秋 高等代数与解析几何I 习题课 任课老师：栗慧曦
+- **2022年春** 数学分析II 任课老师：王俭
+- **2022年秋** 高等代数与解析几何I 习题课 任课老师：栗慧曦 [习题课讲义与作业](https://mmkaymath.github.io/KaiZhu.github.io/file/2022xtk.pdf)
 
 ## 获奖记录
 
@@ -35,7 +35,16 @@ Here is **Kai Zhu(朱凯)**.
 
 # Notes
 
-- 2022年秋高等代数考前辅导[第一次]([About Me – Kai Zhu (mmkaymath.github.io)](https://mmkaymath.github.io/KaiZhu.github.io/)/file/first.pdf)、[第二次](https://mmkaymath.github.io/KaiZhu.github.io/file/second.pdf)
+**注**：部分手写笔记较大，以百度网盘形式上传，提取码均为**ZK03**
 
+### 高等代数
 
+- 2022年秋高等代数考前辅导[第一次](https://mmkaymath.github.io/KaiZhu.github.io/file/first.pdf)、[第二次](https://mmkaymath.github.io/KaiZhu.github.io/file/second.pdf)
+- 高等代数学习笔记[(更新日期：2022.04)](https://pan.baidu.com/s/187e6-L6bnUN7djBno5Af3Q?pwd=ZK03)
 
+### 数学分析
+
+- 南开大学数学分析习题解答
+- 数学分析学习笔记
+- 数学分析Notes
+- 部分数学分析试题解答
