@@ -19,7 +19,23 @@ Here is **Kai Zhu(朱凯)**.
 
 - 2022.09 代数拓扑王向军网课
 
+## 助教经历
+
+- 2022年春 数学分析II 任课老师：王俭
+- 2022年秋 高等代数与解析几何I 习题课 任课老师：栗慧曦
+
+## 获奖记录
+
+- 2021年陈省身智德奖学金
+- 第十四届全国大学生数学竞赛一等奖 天津赛区第五名
+- 2021年国家奖学金
+- 2022年美国数学建模竞赛 Honorable Mention  (H奖)
+- 2020年襄阳五中奖学金
+- 2020年全国高中数学联赛省一等奖 湖北省第40名
+
 # Notes
 
-- 2022年秋高等代数考前辅导[第一次](https://mmkaymath.github.io/KaiZhu.github.io/file/second.pdf)
+- 2022年秋高等代数考前辅导[第一次]([About Me – Kai Zhu (mmkaymath.github.io)](https://mmkaymath.github.io/KaiZhu.github.io/)/file/first.pdf)、[第二次](https://mmkaymath.github.io/KaiZhu.github.io/file/second.pdf)
+
+
 
