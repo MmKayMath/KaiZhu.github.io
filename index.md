@@ -89,6 +89,14 @@ Here is **Kai Zhu(朱凯)**.
 
 以下是我大学入学以来数学的学习历程与一些感悟，主要是一些废话和碎碎念
 
+# 一些数学学习计划
+
+- **黎曼曲面** *Otto Forster*
+- **Morse Theory** *Milnor*
+- **复几何导论** *Daniel Huybrechts*
+- **示性类** *Milnor*
+- **Ricci Flow**
+
 # Friendly Links(一些搜刮的个人主页/资源)
 
 ## 个人主页
