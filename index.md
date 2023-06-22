@@ -47,6 +47,10 @@ Here is **Kai Zhu(朱凯)**.
 
 **注**：部分手写笔记较大，以百度网盘形式上传，提取码均为**ZK03**
 
+### 省身班部分试题解答
+
+- [(更新日期：2023.06)](https://mmkaymath.github.io/KaiZhu.github.io/file/SSsolution.pdf)
+
 ### 高等代数
 
 - 2022年秋高等代数考前辅导[第一次](https://mmkaymath.github.io/KaiZhu.github.io/file/first.pdf)、[第二次](https://mmkaymath.github.io/KaiZhu.github.io/file/second.pdf)
@@ -55,14 +59,14 @@ Here is **Kai Zhu(朱凯)**.
 ### 数学分析
 
 - 南开大学数学分析习题解答[上册](https://pan.baidu.com/s/17DFRMqjn0N00Tk0bH1X-2Q?pwd=ZK03)、[中册](https://pan.baidu.com/s/1qenPOW_thbrzw6P9LWefmg)、[下册](https://pan.baidu.com/s/1jOmbMCFSsdwjYF6ZzQcsyA)
-- 数学分析学习笔记[(更新日期：2020.04)](https://pan.baidu.com/s/1ZWqxaqZbPaLPCO06eQJyBw)
+- 数学分析学习笔记[(更新日期：2022.04)](https://pan.baidu.com/s/1ZWqxaqZbPaLPCO06eQJyBw)
 - 数学分析Notes[(更新日期：2023.05)](https://mmkaymath.github.io/KaiZhu.github.io/file/MAnotes.pdf)
 - 李军老师数分I补充题部分解答[(更新日期：2022.03)](https://mmkaymath.github.io/KaiZhu.github.io/file/nkusolution.pdf)
 - Baby Rudin 基础拓扑抄书笔记[(年轻学不懂点集拓扑)](https://pan.baidu.com/s/1hducKWV5PHeRPShzXfDqrA)
 
 ### 抽象代数/Galois理论
 
-- [(更新日期：2023.05)](https://mmkaymath.github.io/KaiZhu.github.io/file/AA.pdf)
+- [(更新日期：2023.06)](https://mmkaymath.github.io/KaiZhu.github.io/file/AA.pdf)
 
 ### 复变函数
 
@@ -78,6 +82,8 @@ Here is **Kai Zhu(朱凯)**.
 - [(考前突击抄书笔记)]()
 
 ### 点集拓扑
+
+- [(张德学一般拓扑学基础部分解答)](https://mmkaymath.github.io/KaiZhu.github.io/file/ZDXSol.pdf)
 
 ### 代数拓扑
 
