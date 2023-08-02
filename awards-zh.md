@@ -18,4 +18,3 @@ title: Awards-zh
 - **2022**年美国数学建模竞赛 **Honorable Mention**  (H奖)
 - **2020**年全国高中数学联赛省一等奖 湖北省**第40名**
 
-更新时间：2023/05/09&nbsp;   [English Version (英文版)](https://caihanlin.com/awards/)
