@@ -43,7 +43,7 @@ Here is **Kai Zhu(朱凯)**.
 - **2020**年襄阳五中奖学金
 - **2020**年全国高中数学联赛省一等奖 湖北省**第40名**
 
-[获奖记录]([KaiZhu.github.io/awards-zh.md at main · MmKayMath/KaiZhu.github.io](https://github.com/MmKayMath/KaiZhu.github.io/blob/main/awards-zh.md))
+[获奖记录](https://github.com/MmKayMath/KaiZhu.github.io/blob/main/awards-zh.md)
 
 # Notes
 
