@@ -64,7 +64,6 @@ Here is **Kai Zhu(朱凯)**.
 - 数学分析学习笔记[(更新日期：2022.04)](https://pan.baidu.com/s/1ZWqxaqZbPaLPCO06eQJyBw)
 - 数学分析Notes[(更新日期：2023.05)](https://mmkaymath.github.io/KaiZhu.github.io/file/MAnotes.pdf)
 - 李军老师数分I补充题部分解答[(更新日期：2022.03)](https://mmkaymath.github.io/KaiZhu.github.io/file/nkusolution.pdf)
-- Baby Rudin 基础拓扑抄书笔记[(年轻学不懂点集拓扑)](https://pan.baidu.com/s/1hducKWV5PHeRPShzXfDqrA)
 
 ### 抽象代数/Galois理论
 
@@ -85,6 +84,7 @@ Here is **Kai Zhu(朱凯)**.
 
 ### 点集拓扑
 
+- Baby Rudin 基础拓扑抄书笔记[(年轻学不懂点集拓扑)](https://pan.baidu.com/s/1hducKWV5PHeRPShzXfDqrA)
 - [(张德学一般拓扑学基础部分解答)](https://mmkaymath.github.io/KaiZhu.github.io/file/ZDXSol.pdf)
 
 ### 代数拓扑
@@ -154,7 +154,7 @@ Here is **Kai Zhu(朱凯)**.
 
 ## 2023年秋
 
-- **复几何讨论班**
+- **复几何讨论班** [讨论班主页](https://github.com/MmKayMath/KaiZhu.github.io/blob/main/ComplexGeometry2023.md)
 
 # Friendly Links(一些搜刮的个人主页/资源)
 
@@ -167,6 +167,6 @@ Here is **Kai Zhu(朱凯)**.
 
 ## 资源
 
-- 中科大[学习资源]((http://home.ustc.edu.cn/~yx3x/USTCdata.html))
+- 中科大[学习资源](http://home.ustc.edu.cn/~yx3x/USTCdata.html)
 - 杨朝栋学长关于丘赛几何与拓扑方向的[解答](https://cn.overleaf.com/project/62be49329b43e88394252032)
 
