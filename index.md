@@ -107,6 +107,7 @@ Here is **Kai Zhu(朱凯)**.
 - **初等代数拓扑** Binbin Xu
 - **解析数论** Huixi Li
 - **表示论基础** Ning Li
+- **偏微分方程** Guanghui Hu
 
 ## 2023年春
 
