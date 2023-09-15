@@ -29,6 +29,7 @@ Here is **Kai Zhu(朱凯)**.
 
 ## 助教经历
 
+- **2023年秋** 高等代数与解析几何I 习题课 任课老师：栗慧曦
 - **2022年春** 数学分析II 任课老师：王俭
 - **2022年秋** 高等代数与解析几何I 习题课 任课老师：栗慧曦 [习题课讲义与作业](https://mmkaymath.github.io/KaiZhu.github.io/file/2022xtk.pdf)
 
@@ -47,53 +48,76 @@ Here is **Kai Zhu(朱凯)**.
 
 # Notes
 
-### **注**：部分手写笔记较大，以百度网盘形式上传，提取码均为**ZK03**
+## **注**：部分手写笔记较大，以百度网盘形式上传，提取码均为**ZK03**
 
 ### 省身班部分试题解答
 
 - [(更新日期：2023.06)](https://mmkaymath.github.io/KaiZhu.github.io/file/SSsolution.pdf)
 
-### 高等代数
+### 分析与偏微分方程
 
-- 2022年秋高等代数考前辅导[第一次](https://mmkaymath.github.io/KaiZhu.github.io/file/first.pdf)、[第二次](https://mmkaymath.github.io/KaiZhu.github.io/file/second.pdf)
-- 高等代数学习笔记[(更新日期：2022.04)](https://pan.baidu.com/s/187e6-L6bnUN7djBno5Af3Q?pwd=ZK03)
+- #### 数学分析
 
-### 数学分析
+  - 南开大学数学分析习题解答[上册](https://pan.baidu.com/s/17DFRMqjn0N00Tk0bH1X-2Q?pwd=ZK03)、[中册](https://pan.baidu.com/s/1qenPOW_thbrzw6P9LWefmg)、[下册](https://pan.baidu.com/s/1jOmbMCFSsdwjYF6ZzQcsyA)
 
-- 南开大学数学分析习题解答[上册](https://pan.baidu.com/s/17DFRMqjn0N00Tk0bH1X-2Q?pwd=ZK03)、[中册](https://pan.baidu.com/s/1qenPOW_thbrzw6P9LWefmg)、[下册](https://pan.baidu.com/s/1jOmbMCFSsdwjYF6ZzQcsyA)
-- 数学分析学习笔记[(更新日期：2022.04)](https://pan.baidu.com/s/1ZWqxaqZbPaLPCO06eQJyBw)
-- 数学分析Notes[(更新日期：2023.05)](https://mmkaymath.github.io/KaiZhu.github.io/file/MAnotes.pdf)
-- 李军老师数分I补充题部分解答[(更新日期：2022.03)](https://mmkaymath.github.io/KaiZhu.github.io/file/nkusolution.pdf)
+  - 数学分析学习笔记[(更新日期：2022.04)](https://pan.baidu.com/s/1ZWqxaqZbPaLPCO06eQJyBw)
 
-### 抽象代数/Galois理论
+  - 数学分析Notes[(更新日期：2023.05)](https://mmkaymath.github.io/KaiZhu.github.io/file/MAnotes.pdf)
 
-- [(更新日期：2023.06)](https://mmkaymath.github.io/KaiZhu.github.io/file/AA.pdf)
+  - 李军老师数分I补充题部分解答[(更新日期：2022.03)](https://mmkaymath.github.io/KaiZhu.github.io/file/nkusolution.pdf)
 
-### 复变函数
+- #### 复变函数
 
-- [(开专复变函数课后习题部分解答)](https://pan.baidu.com/s/1ypRoRyzd1f6YjoUYhenPkw)
+  - [(开专复变函数课后习题部分解答)](https://pan.baidu.com/s/1ypRoRyzd1f6YjoUYhenPkw)
 
-### 常微分方程(ODE)
+- #### 常微分方程(ODE)
 
-- [(考前突击抄书笔记)](https://pan.baidu.com/s/1XY1Z94A2-UdBOZ6I7vCpIA)
+  - [(考前突击抄书笔记)](https://pan.baidu.com/s/1XY1Z94A2-UdBOZ6I7vCpIA)
 
-### 实变函数
+- #### 实变函数
 
-- [(部分习题整理)]()
-- [(考前突击抄书笔记)]()
+  - [(部分习题整理)]()
+  - [(考前突击抄书笔记)]()
 
-### 点集拓扑
+- #### 偏微分方程(PDE)
 
-- Baby Rudin 基础拓扑抄书笔记[(年轻学不懂点集拓扑)](https://pan.baidu.com/s/1hducKWV5PHeRPShzXfDqrA)
-- [(张德学一般拓扑学基础部分解答)](https://mmkaymath.github.io/KaiZhu.github.io/file/ZDXSol.pdf)
+  - 2023秋PDE课程笔记与作业
+    - Week 1-3： Wave equations, [Review 1](https://mmkaymath.github.io/KaiZhu.github.io/file/review1PDE.pdf),[Exercise 1](https://mmkaymath.github.io/KaiZhu.github.io/file/exercise1PDE.pdf)
 
-### 代数拓扑
+### 代数与数论
 
-- [(更新日期：2023.05)](https://pan.baidu.com/s/16mOcojPRfOTrF4A9Tw_Aqg)
+- #### 高等代数
 
-### 黎曼几何
+  - 2022年秋高等代数考前辅导[第一次](https://mmkaymath.github.io/KaiZhu.github.io/file/first.pdf)、[第二次](https://mmkaymath.github.io/KaiZhu.github.io/file/second.pdf)
 
-- 一些做过的题目[(更新日期：2023.05)](https://pan.baidu.com/s/1xN8xZa3vrl0M1kMGMrpUIg)
+  - 高等代数学习笔记[(更新日期：2022.04)](https://pan.baidu.com/s/187e6-L6bnUN7djBno5Af3Q?pwd=ZK03)
+
+
+- #### 抽象代数/Galois理论
+
+  - [(更新日期：2023.06)](https://mmkaymath.github.io/KaiZhu.github.io/file/AA.pdf)
+
+- #### 解析数论
+
+  - 2023秋课程作业[Homework 1](https://mmkaymath.github.io/KaiZhu.github.io/file/first.pdf)
+
+### 几何与拓扑
+
+- #### 点集拓扑
+
+  - Baby Rudin 基础拓扑抄书笔记[(年轻学不懂点集拓扑)](https://pan.baidu.com/s/1hducKWV5PHeRPShzXfDqrA)
+  - [(张德学一般拓扑学基础部分解答)](https://mmkaymath.github.io/KaiZhu.github.io/file/ZDXSol.pdf)
+
+
+- #### 代数拓扑
+
+  - [(更新日期：2023.05)](https://pan.baidu.com/s/16mOcojPRfOTrF4A9Tw_Aqg)
+
+
+- #### 黎曼几何
+
+  - 一些做过的题目[(更新日期：2023.05)](https://pan.baidu.com/s/1xN8xZa3vrl0M1kMGMrpUIg)
+
 
 # 选修课程与讨论班
 
@@ -106,7 +130,6 @@ Here is **Kai Zhu(朱凯)**.
 - **动力系统导论(1)** 李明，周麒，尤建功
 - **初等代数拓扑** Binbin Xu
 - **解析数论** Huixi Li
-- **表示论基础** Ning Li
 - **偏微分方程** Guanghui Hu
 
 ## 2023年春
