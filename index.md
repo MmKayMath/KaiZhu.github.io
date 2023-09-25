@@ -35,11 +35,12 @@ Here is **Kai Zhu(朱凯)**.
 
 ## 获奖记录(按时间顺序)
 
+- **2022**年公能奖学金
 - **2023**  阿里巴巴全球数学竞赛 **决赛入围**
 - **第十四届**全国大学生数学竞赛**决赛**   **一等奖**  **全国第五名**
 - **2021**年陈省身智德奖学金
 - **第十四届**全国大学生数学竞赛**一等奖** 天津赛区**第五名**
-- **2021**年国家奖学金
+- **2021**年**国家奖学金**
 - **2022**年美国数学建模竞赛 **Honorable Mention**  (H奖)
 - **2020**年襄阳五中奖学金
 - **2020**年全国高中数学联赛省一等奖 湖北省**第40名**
@@ -82,7 +83,8 @@ Here is **Kai Zhu(朱凯)**.
 - #### 偏微分方程(PDE)
 
   - 2023秋PDE课程笔记与作业
-    - Week 1-3： Wave equations, [Review 1](https://mmkaymath.github.io/KaiZhu.github.io/file/review1PDE.pdf),[Exercise 1](https://mmkaymath.github.io/KaiZhu.github.io/file/exercise1PDE.pdf)
+    - Wave equations, [Review 1](https://mmkaymath.github.io/KaiZhu.github.io/file/review1PDE.pdf),[Exercise 1](https://mmkaymath.github.io/KaiZhu.github.io/file/exercise1PDE.pdf)
+    - Heat equations,[Exercise 2](https://mmkaymath.github.io/KaiZhu.github.io/file/exercise2PDE.pdf)
 
 ### 代数与数论
 
@@ -131,6 +133,12 @@ Here is **Kai Zhu(朱凯)**.
 - **初等代数拓扑** Binbin Xu
 - **解析数论** Huixi Li
 - **偏微分方程** Guanghui Hu
+
+#### 讨论班
+
+- **辛几何与辛拓扑** 段华贵
+- **几何群论** 刘勍
+- **微分拓扑基础** 徐彬斌
 
 ## 2023年春
 
