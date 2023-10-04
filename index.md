@@ -119,6 +119,13 @@ Here is **Kai Zhu(朱凯)**.
 - #### 黎曼几何
 
   - 一些做过的题目[(更新日期：2023.05)](https://pan.baidu.com/s/1xN8xZa3vrl0M1kMGMrpUIg)
+  - John Lee阅读Notes[(更新日期：2023.08)](https://mmkaymath.github.io/KaiZhu.github.io/file/rgsol.pdf)
+
+- #### 复几何
+
+
+  - Notes[(基于2022,2023BICMR)](https://mmkaymath.github.io/KaiZhu.github.io/file/cgnotes.pdf)
+
 
 
 # 选修课程与讨论班
