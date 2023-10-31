@@ -37,10 +37,11 @@ Here is **Kai Zhu(朱凯)**.
 
 ## 获奖记录(按时间顺序)
 
+- **2023**年陈省身学术新人奖学金
 - **2022**年公能奖学金
 - **2023**  阿里巴巴全球数学竞赛 **决赛入围**
 - **第十四届**全国大学生数学竞赛**决赛**   **一等奖**  **全国第五名**
-- **2021**年陈省身智德奖学金
+- **2022**年陈省身智德奖学金
 - **第十四届**全国大学生数学竞赛**一等奖** 天津赛区**第五名**
 - **2021**年**国家奖学金**
 - **2022**年美国数学建模竞赛 **Honorable Mention**  (H奖)
@@ -87,6 +88,8 @@ Here is **Kai Zhu(朱凯)**.
   - 2023秋PDE课程笔记与作业
     - Wave equations, [Review 1](https://mmkaymath.github.io/KaiZhu.github.io/file/review1PDE.pdf),[Exercise 1](https://mmkaymath.github.io/KaiZhu.github.io/file/exercise1PDE.pdf)
     - Heat equations,[Exercise 2](https://mmkaymath.github.io/KaiZhu.github.io/file/exercise2PDE.pdf)
+    - Fourier Analysis,[Exercise 3](https://mmkaymath.github.io/KaiZhu.github.io/file/exercise3PDE.pdf)
+    - Harmonic equations,[Midterm task](https://mmkaymath.github.io/KaiZhu.github.io/file/2023PDEmidterm.pdf)
 
 ### 代数与数论
 
@@ -117,6 +120,12 @@ Here is **Kai Zhu(朱凯)**.
 
   - [(更新日期：2023.05)](https://pan.baidu.com/s/16mOcojPRfOTrF4A9Tw_Aqg)
 
+- #### 微分拓扑
+
+
+  - 2023讨论班讲稿
+
+
 
 - #### 黎曼几何
 
@@ -126,7 +135,11 @@ Here is **Kai Zhu(朱凯)**.
 - #### 复几何
 
 
-  - Notes[(基于2022,2023BICMR)](https://mmkaymath.github.io/KaiZhu.github.io/file/cgnotes.pdf)
+    - Notes[(基于2022,2023BICMR)](https://mmkaymath.github.io/KaiZhu.github.io/file/cgnotes.pdf)
+
+
+
+  - #### 辛几何
 
 
 
