@@ -70,7 +70,7 @@ Here is **Kai Zhu(朱凯)**.
 
   - 李军老师数分I补充题部分解答[(更新日期：2022.03)](https://mmkaymath.github.io/KaiZhu.github.io/file/nkusolution.pdf)
 
-  - 2022竞赛讨论班报告[(数学分析中的"升高维度")](https://mmkaymath.github.io/KaiZhu.github.io/file/20221016TeX.pdf)，[(Slides)](https://mmkaymath.github.io/KaiZhu.github.io/file/20231016talk.pdf)
+  - 2022竞赛讨论班报告[(数学分析中的"升高维度")](https://mmkaymath.github.io/KaiZhu.github.io/file/20231016TeX.pdf)，[(Slides)](https://mmkaymath.github.io/KaiZhu.github.io/file/20231016talk.pdf)
 
 - #### 复变函数
 
