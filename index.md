@@ -120,13 +120,13 @@ Here is **Kai Zhu(朱凯)**.
 
 - #### 代数拓扑
 
-  - [(更新日期：2023.05)](https://pan.baidu.com/s/16mOcojPRfOTrF4A9Tw_Aqg)
+  - Notes[(更新日期：2023.05)](https://pan.baidu.com/s/16mOcojPRfOTrF4A9Tw_Aqg)
 
 - #### 微分拓扑
 
 
-  - 2023讨论班讲稿
-
+    - 2023讨论班讲稿
+    - 微分流形题选[(基于2022,2023BICMR)](https://mmkaymath.github.io/KaiZhu.github.io/file/2023DMexer.pdf)
 
 
 - #### 黎曼几何
@@ -136,12 +136,16 @@ Here is **Kai Zhu(朱凯)**.
 
 - #### 复几何
 
+  -  Notes[(基于2022,2023BICMR)](https://mmkaymath.github.io/KaiZhu.github.io/file/cgnotes.pdf)
 
-    - Notes[(基于2022,2023BICMR)](https://mmkaymath.github.io/KaiZhu.github.io/file/cgnotes.pdf)
+- #### 辛几何
 
+  - Solutions to da Silva
 
+- #### 几何分析
 
-  - #### 辛几何
+  - GH收敛Notes[(基于2022,2023BICMR)](https://mmkaymath.github.io/KaiZhu.github.io/file/GAnotes.pdf)
+
 
 
 
