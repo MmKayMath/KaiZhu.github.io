@@ -126,7 +126,7 @@ Here is **Kai Zhu(朱凯)**.
 
 
     - 2023讨论班讲稿
-    - 微分流形题选[(基于2022,2023BICMR)](https://mmkaymath.github.io/KaiZhu.github.io/file/2023DMexer.pdf)
+    - 微分流形题选[(更新日期：2023.10)](https://mmkaymath.github.io/KaiZhu.github.io/file/2023DMexer.pdf)
 
 
 - #### 黎曼几何
@@ -144,7 +144,7 @@ Here is **Kai Zhu(朱凯)**.
 
 - #### 几何分析
 
-  - GH收敛Notes[(基于2022,2023BICMR)](https://mmkaymath.github.io/KaiZhu.github.io/file/GAnotes.pdf)
+  - GH收敛Notes[(基于江文帅老师短期课程)](https://mmkaymath.github.io/KaiZhu.github.io/file/GAnotes.pdf)
 
 
 
