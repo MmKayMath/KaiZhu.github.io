@@ -93,6 +93,13 @@ Here is **Kai Zhu(朱凯)**.
     - Heat equations,[Exercise 2](https://mmkaymath.github.io/KaiZhu.github.io/file/exercise2PDE.pdf)
     - Fourier Analysis,[Exercise 3](https://mmkaymath.github.io/KaiZhu.github.io/file/exercise3PDE.pdf)
     - Harmonic equations,[Midterm task](https://mmkaymath.github.io/KaiZhu.github.io/file/2023PDEmidterm.pdf)
+    - Distributions,[Exercise 5](https://mmkaymath.github.io/KaiZhu.github.io/file/exercise5PDE.pdf)
+  - 二阶椭圆偏微分方程暑期学校 [笔记](https://pan.baidu.com/s/11QvCHPCazdI9djoTVcUOEg?pwd=ZK03)
+
+- #### 动力系统
+
+  - 2023秋课程~~不忠实的~~记录笔记
+
 
 ### 代数与数论
 
@@ -110,6 +117,13 @@ Here is **Kai Zhu(朱凯)**.
 - #### 解析数论
 
   - 2023秋课程作业[Homework 1](https://mmkaymath.github.io/KaiZhu.github.io/file/first.pdf)
+  - 2023秋课程~~不忠实的~~记录笔记
+
+- #### 代数几何
+
+
+  - 2023秋基础代数几何
+
 
 ### 几何与拓扑
 
