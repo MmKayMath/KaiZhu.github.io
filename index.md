@@ -136,12 +136,14 @@ Here is **Kai Zhu(朱凯)**.
 - #### 代数拓扑
 
   - Notes[(更新日期：2023.05)](https://pan.baidu.com/s/16mOcojPRfOTrF4A9Tw_Aqg)
+  - 2023.7.3讨论班报告[(Bott Tu第一章部分)](https://mmkaymath.github.io/KaiZhu.github.io/file/7.3AT.pdf)，[(视频录屏)](https://www.bilibili.com/video/BV1qV4y1a7au/?spm_id_from=333.999.0.0&vd_source=074d22bcdc0bdf783f06b409b49b4bd1)
 
 - #### 微分拓扑
 
 
-    - 2023讨论班讲稿
-    - 微分流形题选[(更新日期：2023.10)](https://mmkaymath.github.io/KaiZhu.github.io/file/2023DMexer.pdf)
+  - 2023讨论班讲稿
+  - 微分流形题选[(更新日期：2023.10)](https://mmkaymath.github.io/KaiZhu.github.io/file/2023DMexer.pdf)
+
 
 
 - #### 黎曼几何
@@ -160,6 +162,8 @@ Here is **Kai Zhu(朱凯)**.
 - #### 几何分析
 
   - GH收敛Notes[(基于江文帅老师短期课程)](https://mmkaymath.github.io/KaiZhu.github.io/file/GAnotes.pdf)
+
+- #### 几何群论
 
 
 
