@@ -158,6 +158,7 @@ Here is **Kai Zhu(朱凯)**.
 - #### 辛几何
 
   - Solutions to da Silva
+  - 切触动力系统报告手稿[(2023.11.30)](https://mmkaymath.github.io/KaiZhu.github.io/file/contactdynamic.pdf)
 
 - #### 几何分析
 
