@@ -24,9 +24,15 @@ Here is **Kai Zhu(朱凯)**.
 
 以下本面的内容如果侵犯了您的权益，可以通过邮箱或QQ联系我
 
-# 更新与说明：
+# <font color=Red>更新与说明：个人主页转到页面
 
-# <font color=Red>个人主页转到页面[ Kai Zhu’s Personal Homepage](https://mmkaymath.github.io/KaiZhu2003.github.io/)，此页面停止更新
+
+
+# [ Kai Zhu’s Personal Homepage](https://mmkaymath.github.io/KaiZhu2003.github.io/)
+
+
+
+# <font color=Red>此页面停止更新
 
 ## 教育经历
 
