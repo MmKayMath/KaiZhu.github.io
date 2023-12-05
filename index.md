@@ -26,7 +26,7 @@ Here is **Kai Zhu(朱凯)**.
 
 # 更新与说明：
 
-# 个人主页转到页面[ Kai Zhu’s Personal Homepage](https://mmkaymath.github.io/KaiZhu2003.github.io/)，此页面停止更新
+# <font color=Red>个人主页转到页面[ Kai Zhu’s Personal Homepage](https://mmkaymath.github.io/KaiZhu2003.github.io/)，此页面停止更新
 
 ## 教育经历
 
