@@ -24,6 +24,10 @@ Here is **Kai Zhu(朱凯)**.
 
 以下本面的内容如果侵犯了您的权益，可以通过邮箱或QQ联系我
 
+# 更新与说明：
+
+# 个人主页转到页面[ Kai Zhu’s Personal Homepage](https://mmkaymath.github.io/KaiZhu2003.github.io/)，此页面停止更新
+
 ## 教育经历
 
 - **2024.02——2024.06** <u>BICMR第16期强化班</u>
