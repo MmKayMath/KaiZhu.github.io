@@ -4,6 +4,15 @@ layout: page
 
 [TOC]
 
+# <font color=Red>更新与说明：个人主页转到页面
+
+
+
+# [ Kai Zhu’s Personal Homepage](https://mmkaymath.github.io/KaiZhu2003.github.io/)
+
+
+
+# <font color=Red>此页面停止更新
 
 
 # About Me
@@ -12,7 +21,7 @@ layout: page
 
 Here is **Kai Zhu(朱凯)**.
 
-我是南开大学2021级数学省身班的学生，目前兴趣方向是**几何与拓扑**
+我是北京国际数学研究中心(BICMR)2025级博士生，目前兴趣方向是**低维拓扑，辛拓扑**
 
 **QQ**：308655003
 
@@ -24,15 +33,6 @@ Here is **Kai Zhu(朱凯)**.
 
 以下本面的内容如果侵犯了您的权益，可以通过邮箱或QQ联系我
 
-# <font color=Red>更新与说明：个人主页转到页面
-
-
-
-# [ Kai Zhu’s Personal Homepage](https://mmkaymath.github.io/KaiZhu2003.github.io/)
-
-
-
-# <font color=Red>此页面停止更新
 
 ## 教育经历
 
